@@ -1,6 +1,6 @@
 {{meta {load_files: ["code/intro.js"]}}}
 
-# Introduction
+# Kirish
 
 {{quote {author: "Ellen Ullman", title: "Close to the Machine: Technophilia and its Discontents", chapter: true}
 
@@ -59,7 +59,7 @@ available on almost every device.
 This book will try to make you familiar enough with this language to
 do useful and amusing things with it.
 
-## On programming
+## On programmi
 
 {{index [programming, "difficulty of"]}}
 
